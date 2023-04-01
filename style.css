@@ -19,10 +19,16 @@
 
 }
 .main{
-    background-color: green;
+    background-color: rgb(166, 234, 166);
     width: 90vw;
 }
 
 .container{
     display: flex;
+}
+.info{
+    background-color: rgb(221, 233, 84);
+    height: 78vh;
+    width: 80vh;
+    margin:144px auto;
 }
